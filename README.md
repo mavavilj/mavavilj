@@ -2,5 +2,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavavilj)
 
 
--I’m currently working on ... Android/Kotlin, Nim for Data Science
--I’m currently learning ... "Robust" C, Lojban
+I’m currently working on ... Android/Kotlin, Nim for Data Science
+
+I’m currently learning ... "Robust" C, Lojban
