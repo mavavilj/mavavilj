@@ -4,4 +4,4 @@
 
 I’m currently working on ... Android/Kotlin, Nim for Data Science
 
-I’m currently learning ... "Robust" C, Lojban
+I’m currently learning ... "Robust" C, Kubernetes, Lojban
