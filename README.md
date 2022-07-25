@@ -1,3 +1,3 @@
-I’m currently working on ... Android/Kotlin, Nim for Data Science
+I’m currently working on ... Android/Kotlin
 
-I’m currently learning ... "Robust" C, Nim, Lojban, Parallel computing, FreeBSD
+I’m currently learning ... Robust and safe C, Fortran, Lojban, Parallel computing, FreeBSD
